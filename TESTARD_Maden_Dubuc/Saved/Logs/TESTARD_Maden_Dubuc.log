@@ -1877,3 +1877,63 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.20-09.03.52:775][981]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.03.20-09.03.58:018][296]LogContentBrowser: Attempting asset rename: NewFolder -> FonctionsEase
 [2025.03.20-09.03.58:019][296]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.20-09.05.15:067][247]LogContentBrowser: Attempting asset rename: FonctionsEase -> FonctionsEase
+[2025.03.20-09.05.22:162][663]LogSlate: Window 'Pipette' being destroyed
+[2025.03.20-09.05.29:236][ 81]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease:EaseSineIn.K2Node_FunctionEntry_0' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease:EaseSineIn.K2Node_FunctionResult_0' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseSineIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseSineOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseQuadIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseQuadOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseCubicIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseCubicOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseElasticIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseElasticOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseBounceIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.SKEL_Lib_Ease_C:EaseBounceOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseSineIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseSineOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseQuadIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseQuadOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseCubicIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseCubicOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseElasticIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseElasticOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseBounceIn' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:373][ 81]LogMetaData: Removing '/Game/MonContenu/FonctionsEase/Lib_Ease.Lib_Ease_C:EaseBounceOut' ref from Metadata '/Game/MonCintenu/FonctionsEase/Lib_Ease.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.SKEL_UI_Niveau1_Casino_C' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino_C' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino:GetPercent.K2Node_FunctionEntry_0' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino:GetPercent.K2Node_FunctionResult_0' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.SKEL_UI_Niveau1_Casino_C:PreConstruct' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.SKEL_UI_Niveau1_Casino_C:Construct' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.SKEL_UI_Niveau1_Casino_C:Tick' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:375][ 81]LogMetaData: Removing '/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.SKEL_UI_Niveau1_Casino_C:BndEvt__UI_Niveau1_Casino_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MonCintenu/UI/UI_Casino/UI_Niveau1_Casino.PackageMetaData'
+[2025.03.20-09.05.29:394][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.20-09.05.29:394][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MonContenu/FonctionsEase/Lib_Ease] ([2] browsable assets)...
+[2025.03.20-09.05.29:394][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/MonContenu/FonctionsEase/Lib_Ease]
+[2025.03.20-09.05.29:404][ 81]LogSavePackage: Moving output files for package: /Game/MonContenu/FonctionsEase/Lib_Ease
+[2025.03.20-09.05.29:404][ 81]LogSavePackage: Moving '../../../../../../Users/maden.testard/Documents/GitHub/TESTARD_Maden_Devoir_Dubuc/TESTARD_Maden_Dubuc/Saved/Lib_Ease548734AE469A2426400DB1B28AAFE31E.tmp' to '../../../../../../Users/maden.testard/Documents/GitHub/TESTARD_Maden_Devoir_Dubuc/TESTARD_Maden_Dubuc/Content/MonContenu/FonctionsEase/Lib_Ease.uasset'
+[2025.03.20-09.05.29:409][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino] ([2] browsable assets)...
+[2025.03.20-09.05.29:412][ 81]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.UI_Niveau1_Casino]
+[2025.03.20-09.05.29:412][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino]
+[2025.03.20-09.05.29:416][ 81]LogSavePackage: Moving output files for package: /Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino
+[2025.03.20-09.05.29:416][ 81]LogSavePackage: Moving '../../../../../../Users/maden.testard/Documents/GitHub/TESTARD_Maden_Devoir_Dubuc/TESTARD_Maden_Dubuc/Saved/UI_Niveau1_CasinoE55282FB4C798EDF53AAA7B2B5A272E2.tmp' to '../../../../../../Users/maden.testard/Documents/GitHub/TESTARD_Maden_Devoir_Dubuc/TESTARD_Maden_Dubuc/Content/MonContenu/UI/UI_Casino/UI_Niveau1_Casino.uasset'
+[2025.03.20-09.05.29:420][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.424 ms
+[2025.03.20-09.05.29:511][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.20-09.05.29:531][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.20-09.05.29:552][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.20-09.05.29:668][ 81]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.20-09.05.29:668][ 81]LogContentValidation: Enabled validators:
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.20-09.05.29:669][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.20-09.05.29:670][ 81]AssetCheck: /Game/MonContenu/FonctionsEase/Lib_Ease Validation de la ressource
+[2025.03.20-09.05.29:671][ 81]AssetCheck: /Game/MonContenu/UI/UI_Casino/UI_Niveau1_Casino Validation de la ressource
